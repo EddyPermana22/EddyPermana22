@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Have 10+ years of experience as web developer. Start my career path as web developer since 2008 until present make me know more thing about web development technology.
 
-Do more work with logical as **backend programmer**, but I can do frontend work as good as a backend work.
+Do more work with logical as **Backend Engineer**, but I can do **Fontend Engineer** things as good as a backend things.
 
 Doing the task not for just let it done, but doing for the best practice and the best performance. Yes, I'm here to provide the web development solutions. 
 
