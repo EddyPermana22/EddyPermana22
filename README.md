@@ -23,5 +23,6 @@ Do more work with logical as **Backend Engineer**, but I can do **Fontend Engine
 
 Doing the task not for just let it done, but doing for the best practice and the best performance. Yes, I'm here to provide the web development solutions. 
 
+![Eddy Permana's github stats](https://github-readme-stats.vercel.app/api?username=eddypermana22&count_private=true)
 ------
 
