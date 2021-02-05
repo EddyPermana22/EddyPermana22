@@ -17,6 +17,19 @@ Here are some ideas to get you started:
 
 ![Header Image](https://media-exp1.licdn.com/dms/image/C5116AQFOO6dp85jfsA/profile-displaybackgroundimage-shrink_200_800/0?e=1609372800&v=beta&t=ICMPhyosG3vJc5VC3x5S5DF9iJ2d6sYWqxXxKGojcBU)
 
+<p>
+  <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img alt="Material-UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" />
+</p>
+
 Have 10+ years of experience as web developer. Start my career path as web developer since 2008 until present make me know more thing about web development technology.
 
 Do more work with logical as **Backend Engineer**, but I can do **Fontend Engineer** things as good as a backend things.
