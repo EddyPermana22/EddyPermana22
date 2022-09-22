@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 ------
 
-![Header Image](https://raw.githubusercontent.com/EddyPermana22/eddypermana22/main/githubprofile-header.jpg)
-
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
