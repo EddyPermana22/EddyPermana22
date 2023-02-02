@@ -28,11 +28,13 @@ Here are some ideas to get you started:
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" />
 </p>
 
-Have 10+ years of experience as web developer. Start my career path as web developer since 2008 until present make me know more thing about web development technology.
+With a natural talent for coding and a deep passion for the field, I have been honing my skills as a software engineer since my days in high school. My journey started with competitive programming, where I learned the fundamentals of algorithm design and problem-solving. Through hours of practice and hard work, I developed a keen eye for detail and a thirst for knowledge that have driven me to become one of the most skilled coders in the industry.
 
-Do more work with logical as **Backend Engineer**, but I can do **Fontend Engineer** things as good as a backend things.
+My expertise in web programming extends to both front-end and back-end development, making me a versatile and highly sought-after professional. Whether it's creating sleek, user-friendly interfaces or building scalable, efficient back-end systems, I am always up for the challenge. My deep understanding of the latest technologies, combined with my ability to think outside the box, has allowed me to deliver truly innovative solutions that have exceeded my clients' expectations time and time again.
 
-Doing the task not for just let it done, but doing for the best practice and the best performance. Yes, I'm here to provide the web development solutions. 
+I am a true perfectionist, and I take pride in every project that I work on. I am not satisfied with simply completing tasks - I strive to deliver the best possible performance, using the best practices and the latest techniques. This unwavering commitment to excellence has earned me a reputation as a result-oriented software engineer who is always striving to push the boundaries of what is possible.
+
+Whether you're looking for a skilled front-end developer, a talented back-end programmer, or a true all-rounder, I am the software engineer you've been searching for.
 
 ![Eddy Permana's github stats](https://github-readme-stats.vercel.app/api?username=eddypermana22&count_private=true&show_icons=true&theme=react)
 ------
