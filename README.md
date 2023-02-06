@@ -37,6 +37,7 @@ I am a true perfectionist, and I take pride in every project that I work on. I a
 Whether you're looking for a skilled front-end developer, a talented back-end programmer, or a true all-rounder, I am the software engineer you've been searching for.
 
 ![Eddy Permana's github stats](https://github-readme-stats.vercel.app/api?username=eddypermana22&count_private=true&show_icons=true&theme=react)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eddypermana22&theme=prussian&background=22272E)](https://git.io/streak-stats)
 ------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddypermana22)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddypermana22&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
