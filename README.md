@@ -28,13 +28,13 @@ Here are some ideas to get you started:
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" />
 </p>
 
-With a natural talent for coding and a deep passion for the field, I have been honing my skills as a software engineer since my days in high school. My journey started with competitive programming, where I learned the fundamentals of algorithm design and problem-solving. Through hours of practice and hard work, I developed a keen eye for detail and a thirst for knowledge that have driven me to become one of the most skilled coders in the industry.
+I am a talented software engineer with a passion for coding that started in high school. Through competitive programming and tireless effort, I have honed my skills in algorithm design, problem-solving, and attention to detail. My drive to continuously improve and expand my knowledge has made me one of the most skilled coders in the industry.
 
-My expertise in web programming extends to both front-end and back-end development, making me a versatile and highly sought-after professional. Whether it's creating sleek, user-friendly interfaces or building scalable, efficient back-end systems, I am always up for the challenge. My deep understanding of the latest technologies, combined with my ability to think outside the box, has allowed me to deliver truly innovative solutions that have exceeded my clients' expectations time and time again.
+With expertise in both front-end and back-end web development, I am a versatile and in-demand software engineer. I excel at creating intuitive user interfaces and constructing scalable and efficient back-end systems. My broad knowledge of cutting-edge technologies and ability to think creatively has resulted in consistently delivering innovative solutions that surpass my client's expectations.
 
-I am a true perfectionist, and I take pride in every project that I work on. I am not satisfied with simply completing tasks - I strive to deliver the best possible performance, using the best practices and the latest techniques. This unwavering commitment to excellence has earned me a reputation as a result-oriented software engineer who is always striving to push the boundaries of what is possible.
+As a dedicated perfectionist, I take great pride in all my projects and consistently strive for excellence. I aim for the best possible performance by utilizing the latest techniques and best practices. My unwavering commitment to delivering the best results has established me as a result-driven software engineer who constantly pushes the limits of what is achievable.
 
-Whether you're looking for a skilled front-end developer, a talented back-end programmer, or a true all-rounder, I am the software engineer you've been searching for.
+In addition to my professional work, I am committed to fostering growth and learning in others. I serve as a mentor and instructor at a coding boot camp and make meaningful contributions to advancing technology education in Indonesia.
 
 ![Eddy Permana's github stats](https://github-readme-stats.vercel.app/api?username=eddypermana22&count_private=true&show_icons=true&theme=react)
 [![GitHub Streak](https://streak-stats.demolab.com?user=eddypermana22&theme=prussian&background=22272E)](https://git.io/streak-stats)
