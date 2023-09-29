@@ -36,8 +36,6 @@ As a dedicated perfectionist, I take great pride in all my projects and consiste
 
 In addition to my professional work, I am committed to fostering growth and learning in others. I serve as a mentor and instructor at a coding boot camp and make meaningful contributions to advancing technology education in Indonesia.
 
-![Eddy Permana's github stats](https://github-readme-stats.vercel.app/api?username=eddypermana22&count_private=true&show_icons=true&theme=react)
-[![GitHub Streak](https://streak-stats.demolab.com?user=eddypermana22&theme=prussian&background=22272E)](https://git.io/streak-stats)
 ------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddypermana22&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
